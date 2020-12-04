@@ -4,6 +4,15 @@
 ``` npx create-react-app bmd  ```
 1. decide where the api dir with data will live
 1. start base app with npm start - is using default app* file in the src directories.
+1. update src/app.js - leave only empty div
+```function App() {
+  return (
+    <div className="App">
+      
+    </div>
+  );
+}
+```
 1. 
 
 
