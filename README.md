@@ -13,6 +13,7 @@
   );
 }
 ```
+1. do initial commit/push and create origin repo
 1. 
 
 
