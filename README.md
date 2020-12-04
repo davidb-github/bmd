@@ -1,3 +1,12 @@
+# Workshop notes
+
+1. create new react app  
+``` npx create-react-app bmd  ```
+1. decide where the api dir with data will live
+1. start base app with npm start - is using default app* file in the src directories.
+1. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
